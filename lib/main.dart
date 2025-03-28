@@ -4,11 +4,11 @@ import 'package:flutter/material.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 
 void main() {
-  runApp(const YiFangJhen());
+  runApp(const TheAnalects());
 }
 
-class YiFangJhen extends StatelessWidget {
-  const YiFangJhen({super.key});
+class TheAnalects extends StatelessWidget {
+  const TheAnalects({super.key});
 
   @override
   Widget build(BuildContext context) {
