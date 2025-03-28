@@ -1,6 +1,6 @@
 {
-    "name": "analects",
-    "short_name": "analects",
+    "name": "論語全覽圖",
+    "short_name": "論語全覽圖",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
